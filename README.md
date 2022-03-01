@@ -1,6 +1,6 @@
 # Cartoons-Whitelist
 
-Cartoons Contract Address: 0xccF5F40d2d66352faad507B02Cb44dcAd5f9Cf60
+Cartoons Contract Address: 0xeE29700134AAB4f45b113E43E29ff06ce10687b7
 
 Text file contains 3818 Whitelisted addresses for Cartoons NFT. Search for your address in the text file to see if it is whitelisted.
 
