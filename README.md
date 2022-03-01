@@ -1,5 +1,7 @@
 # Cartoons-Whitelist
 
+Cartoons Contract Address: 0xccF5F40d2d66352faad507B02Cb44dcAd5f9Cf60
+
 Text file contains 3818 Whitelisted addresses for Cartoons NFT. Search for your address in the text file to see if it is whitelisted.
 
 With the attached proof you will have all the data needed to whitelist mint from contract.
